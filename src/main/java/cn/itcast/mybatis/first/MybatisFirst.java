@@ -70,4 +70,11 @@ public class MybatisFirst {
         sqlSession.close();
     }
 
+
+    // 添加用户信息
+    @Test
+    public void insertUserTest() throws IOException {
+
+    }
+
 }
